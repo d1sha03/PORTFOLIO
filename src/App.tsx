@@ -243,7 +243,6 @@ export default function App() {
             </a>
           ))}
         </div>
-        <p className="mt-16 text-sm text-[#F2C4CD]/40">Last updated: January 2025</p>
       </section>
     </main>
   );
